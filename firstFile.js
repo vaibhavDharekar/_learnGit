@@ -1,8 +1,8 @@
 console.log("first line");
 console.log("second line");
 console.log("third line");
-console.log("fourth line");
-console.log("fifth line");
+console.log("4th line");
+console.log("5th line");
 console.log("6th line");
 console.log("7th line");
 console.log("8th line");
