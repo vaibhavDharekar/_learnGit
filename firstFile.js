@@ -7,3 +7,6 @@ console.log("6th line");
 console.log("7th line");
 console.log("8th line");
 console.log("9th line");
+console.log("10th line");
+console.log("11th line");
+console.log("12th line");
